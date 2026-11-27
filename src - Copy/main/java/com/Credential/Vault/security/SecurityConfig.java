@@ -106,6 +106,7 @@ public class SecurityConfig {
         CorsConfiguration config = new CorsConfiguration();
 
         config.setAllowedOrigins(List.of(
+                "https://password-vault-1-q3pe.onrender.com",
                 "http://127.0.0.1:5500",
                 "http://localhost:5500",
                 "http://localhost:63342",
@@ -136,6 +137,5 @@ public class SecurityConfig {
 
         return source;
     }
-
 
 }
