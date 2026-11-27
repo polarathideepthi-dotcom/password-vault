@@ -1,5 +1,5 @@
 
-const API_BASE_URL = "https://password-vault-backend-2.onrender.com";
+const API_BASE_URL = "https://password-vault-19m2.onrender.com";
 
 // ============================================
 // DISPLAY API MESSAGES SAFELY
