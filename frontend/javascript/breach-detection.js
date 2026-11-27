@@ -1,6 +1,6 @@
 
 
-const API_BASE_URL = "http://localhost:8080";
+const API_BASE_URL = "https://password-vault-backend-2.onrender.com";
 
 const scanBtn = document.getElementById("scanBreachesBtn");
 const scanStatus = document.getElementById("scanStatus");
